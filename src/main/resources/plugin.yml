@@ -1,0 +1,6 @@
+name: NoBellSpam
+version: '${project.version}'
+main: de.malfrador.nobellspam.NoBellSpam
+api-version: 1.17
+authors: [ Malfrador ]
+description: A simple plugin to prevent players from spamming bells
